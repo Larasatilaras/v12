@@ -1,9 +1,7 @@
-//temepel session lu disni
-
 {
-	"clientID": "tJIP93YNKc/yRGdSgUQ8hg==",
-	"serverToken": "1@8uv6MF2tYhdru8rqD5G0T9kVr5qxNAqV5mkEe9+qFvE/Y1lC7bU6cSEcMKrjvfVgql3mpXUw4W8++w==",
-	"clientToken": "0olJDZrIlaSDXHLJuEEUX70dSPJhi6hw8eSMbDWDWb4=",
-	"encKey": "aSduuFA4ECGENhgoDTm3ouciK7WnnHG0sTwZZr2ruOo=",
-	"macKey": "ttcLhpNfAgJ/nBjhNWmBpTXrNCM7PBN0jJ7Ds1M4z+U="
+	"clientID": "5tA3BRT70iuRvCohC2DTEw==",
+	"serverToken": "1@4TycDViJYK5go6g4KISRvVkhyJ8vMotYMlhMv6j5bdYwFBjdv0Vio+1EEFxlmIAsL2BbGSWnFXt+PQ==",
+	"clientToken": "7x0TTNXP04PcMA1jII7C3omLM8SgFu7dUkimu+ctbv0=",
+	"encKey": "uyah/PSv0zmkgmvOurzVbzIPgJ/Vk29P2Huvgw5DVA8=",
+	"macKey": "cvfXr0qxOhjaoLcobNBTfo9W2vNro9PXBMgrGOdWfwo="
 }
